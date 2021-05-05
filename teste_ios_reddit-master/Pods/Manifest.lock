@@ -1,0 +1,20 @@
+PODS:
+  - Alamofire (4.9.0)
+  - PDFGenerator (3.1.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - PDFGenerator (~> 3.1)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - PDFGenerator
+
+SPEC CHECKSUMS:
+  Alamofire: afc3e7c6db61476cb45cdd23fed06bad03bbc321
+  PDFGenerator: 17d6bc525db0a3fcd156fbf00f9d1b8d5cc75d1e
+
+PODFILE CHECKSUM: 38040ef9a855878d34457c87561765dc66073493
+
+COCOAPODS: 1.10.1
